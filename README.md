@@ -11,10 +11,11 @@
 
 <div>Sau khi sử dụng <b> Hydrate, QueryClient, QueryClientProvider </b></div>
  <br>
-![image](https://user-images.githubusercontent.com/74180525/180655783-3cbd41b1-2b20-4702-a147-c5e1f9884668.png)
+![image](https://user-images.githubusercontent.com/74180525/181301157-fe5da02a-19ea-4b49-b9e0-1ca4921e4caf.png)
 
 <div>Hệ thống báo lỗi:</div>
-![image](https://user-images.githubusercontent.com/74180525/180655791-9a847ed5-9227-4a15-9290-9457384b5674.png)
+![image](https://user-images.githubusercontent.com/74180525/181301282-476f9ac1-1450-40e6-98a4-9d735b73a0bf.png)
+
 
 <div>=> Tìm hiểu hướng giải quyết và sửa lỗi bằng cách thay đổi thư viện từ <b>react-query</b> sang <b>@tanstack/react-query</b> </div>
 
