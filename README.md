@@ -11,11 +11,12 @@
 
 <div>Sau khi sử dụng <b> Hydrate, QueryClient, QueryClientProvider </b></div>
  <br>
-![image](https://user-images.githubusercontent.com/74180525/181301654-08a078eb-7194-44b9-b948-ccbca1473434.png)
+ <img src="https://user-images.githubusercontent.com/74180525/181301654-08a078eb-7194-44b9-b948-ccbca1473434.png" />
 
 
 <div>Hệ thống báo lỗi:</div>
-![image](https://user-images.githubusercontent.com/74180525/181301729-a42a8ce8-97a5-4633-8981-e1b49d084ca3.png)
+
+ <img src="https://user-images.githubusercontent.com/74180525/181301729-a42a8ce8-97a5-4633-8981-e1b49d084ca3.png" />
 
 
 
